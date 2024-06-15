@@ -24,12 +24,12 @@
 <h2> 🔭 &nbsp;Most used languaged on github</h2>
 <p align="left">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NooraWael&layout=pie)](https://github.com/NooraWael/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NooraWael)](https://github.com/NooraWael/github-readme-stats)
 </p>
 
 <h2> 🔭 &nbsp;Activity</h2>
 <p align="left">
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=NooraWael&theme=dark)](https://git.io/streak-stats)
 </p>
 
 <!--
