@@ -21,7 +21,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" alt="php" width="45" height="45"/>
 </p>
 
-![Snake animation](https://github.com/NooraWael/NooraWael/blob/output/github-contribution-grid-snake.svg)
+
 <!--
 **NooraWael/NooraWael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
