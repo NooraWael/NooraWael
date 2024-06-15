@@ -29,7 +29,7 @@
 
 <h2> 🔭 &nbsp;Activity</h2>
 <p align="left">
-[![Noora's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NooraWael&theme=react-dark)](https://github.com/NooraWael/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NooraWael)](https://github.com/NooraWael/github-readme-activity-graph)
 </p>
 
 <!--
