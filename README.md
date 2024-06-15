@@ -21,7 +21,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" alt="php" width="45" height="45"/>
 </p>
 
-<h2> 🔭 &nbsp;Most used languaged on github</h2>
+<h2> 🔭 &nbsp;Most used languages on github</h2>
 <p align="left">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NooraWael)](https://github.com/NooraWael/github-readme-stats)
