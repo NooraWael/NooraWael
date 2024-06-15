@@ -11,6 +11,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" alt="php" width="45" height="45"/>
 </p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NooraWael)](https://github.com/NooraWael/github-readme-stats)
 
 <h2> 🚀 &nbsp;the paltforms!</h2>
 <p align="left">
