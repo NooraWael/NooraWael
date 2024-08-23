@@ -24,7 +24,7 @@
 <h2> 🔭 &nbsp;Most used languages on github</h2>
 <p align="left">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NooraWael)](https://github.com/NooraWael/github-readme-stats)
+[![](https://raw.githubusercontent.com/NooraWael/NooraWael/master/profile-summary-card-output/dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 </p>
 <h2> 🔭 &nbsp;Activity</h2>
 <p align="left">
