@@ -24,6 +24,8 @@
 <h2> 🔭 &nbsp;Most used languages on github</h2>
 <p align="left">
 
+
+(http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={NooraWael}&theme={github_dark})
 </p>
 <h2> 🔭 &nbsp;Activity</h2>
 <p align="left">
