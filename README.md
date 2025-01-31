@@ -22,13 +22,7 @@
 </p>
 
 
-<h2> 🔭 &nbsp;Activity</h2>
-<p align="left">
- 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=NooraWael&theme=dark)](https://git.io/streak-stats)
 
-
-</p>
 
 <!--
 **NooraWael/NooraWael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
