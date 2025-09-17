@@ -2,8 +2,11 @@ name: generate-snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # runs every day at midnight
-  workflow_dispatch:      # allows you to run it manually
+    - cron: "0 0 * * *"   # every day at midnight
+  workflow_dispatch:      # run manually from Actions tab
+
+permissions:
+  contents: write   
 
 jobs:
   build:
