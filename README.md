@@ -10,7 +10,6 @@
 
 ---
 
-## 🎮 Fun Contribution Graph
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NooraWael/NooraWael/output/github-snake-dark.svg" />
