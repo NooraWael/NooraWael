@@ -1,6 +1,5 @@
 # Hi there, I'm Noora 👋  
 
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=NooraWael.NooraWael&" />
 
 ## 📊 GitHub Stats
 
