@@ -17,19 +17,4 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/NooraWael/NooraWael/output/github-snake.svg" />
 </picture>
 
----
 
-## 🌐 Connect with Me
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/nooraqasim/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
-  </a>
-  <a href="https://www.instagram.com/nooraprog/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" width="40" />
-  </a>
-</div>
-
----
-
-⭐️ From [NooraWael](https://github.com/NooraWael)
