@@ -1,11 +1,13 @@
-👋 Hey, I’m Noora
+# 👋 Hey, I’m Noora
 
-🚀 Mobile Developer | 🎤 Public Speaker | 🧩 Problem Solver (and Occasional Chaos Bringer)
+## 🚀 Mobile Developer | 🎤 Public Speaker | 🧩 Problem Solver (and Occasional Chaos Bringer)
+
+
 
 I build things that make people go “wait… that actually works?”
 Fueled by curiosity, caffeine, and a love for solving puzzles — whether it’s a tricky bug, a messy idea, or a wild hackathon prompt.
 
-My passion? Creating impact through code and conversation.
+### My passion? Creating impact through code and conversation.
 
 🧠 What I’m About
 
