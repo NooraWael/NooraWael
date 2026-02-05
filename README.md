@@ -5,7 +5,7 @@
 
 
 I build things that make people go “wait… that actually works?”
-Fueled by curiosity, caffeine, and a love for solving puzzles — whether it’s a tricky bug, a messy idea, or a wild hackathon prompt.
+Fueled by curiosity, caffeine, and a love for solving puzzles whether it’s a tricky bug, a messy idea, or a wild hackathon prompt.
 
 ### My passion? Creating impact through code and conversation.
 
