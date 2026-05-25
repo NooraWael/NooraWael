@@ -154,9 +154,6 @@ status:
   <img alt="snake eating the contribution graph" src="https://raw.githubusercontent.com/NooraWael/NooraWael/output/github-contribution-grid-snake.svg" />
 </div>
 
-<sub><em>↑ regenerated every 12 hours via GitHub Actions · setup notes at the bottom of this file</em></sub>
-
-
 <!-- ============================================================== -->
 <!--   ACCESS LOG — CONTACT  ·  shields.io                             -->
 <!--   Four channels styled as cream-on-ink badges.                    -->
