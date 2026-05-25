@@ -63,7 +63,6 @@ spec:
   mentoring:   the next generation of bahraini engineers @ reboot
   speaking:    community events · hackathons · workshops
   open_to:     collaboration · speaking · mentorship
-  reading:     ${{ ask me }}
 status:
   - ● active investigation
   - ● accepting cases
@@ -100,7 +99,7 @@ status:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=NooraWael&show_icons=true&hide_border=false&border_color=0A0A0A&title_color=C73E1D&icon_color=C73E1D&text_color=0A0A0A&bg_color=FFF3D4&include_all_commits=true&count_private=true" width="49%" alt="stats" />
+<img src="https://new-gray-ten-48.vercel.app/api?username=NooraWael&show_icons=true&hide_border=false&border_color=0A0A0A&title_color=C73E1D&icon_color=C73E1D&text_color=0A0A0A&bg_color=FFF3D4&include_all_commits=true&count_private=true" width="49%" alt="stats" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=NooraWael&hide_border=false&border=0A0A0A&background=FFF3D4&stroke=0A0A0A&ring=C73E1D&fire=C73E1D&currStreakLabel=C73E1D&sideLabels=0A0A0A&dates=0A0A0A&sideNums=0A0A0A&currStreakNum=0A0A0A" width="49%" alt="streak" />
 
@@ -108,7 +107,7 @@ status:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NooraWael&layout=compact&hide_border=false&border_color=0A0A0A&title_color=C73E1D&text_color=0A0A0A&bg_color=FFF3D4&langs_count=8" width="49%" alt="languages" />
+<img src="https://new-gray-ten-48.vercel.app/api/top-langs/?username=NooraWael&layout=compact&hide_border=false&border_color=0A0A0A&title_color=C73E1D&text_color=0A0A0A&bg_color=FFF3D4&langs_count=8" width="49%" alt="languages" />
 
 <img src="https://github-profile-trophy.vercel.app/?username=NooraWael&theme=flat&no-frame=true&row=2&column=3&margin-w=10&margin-h=10" width="49%" alt="trophies" />
 
@@ -153,6 +152,7 @@ status:
 <div align="center">
   <img alt="snake eating the contribution graph" src="https://raw.githubusercontent.com/NooraWael/NooraWael/output/github-contribution-grid-snake.svg" />
 </div>
+
 
 <!-- ============================================================== -->
 <!--   ACCESS LOG — CONTACT  ·  shields.io                             -->
