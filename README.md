@@ -147,13 +147,6 @@ status:
 <!--   time GitHub Action setup (workflow file included below).        -->
 <!-- ============================================================== -->
 
-## `// snake watch`
-
-<div align="center">
-  <img alt="snake eating the contribution graph" src="https://raw.githubusercontent.com/NooraWael/NooraWael/output/github-contribution-grid-snake.svg" />
-</div>
-
-
 <!-- ============================================================== -->
 <!--   ACCESS LOG — CONTACT  ·  shields.io                             -->
 <!--   Four channels styled as cream-on-ink badges.                    -->
