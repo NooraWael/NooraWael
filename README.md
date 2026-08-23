@@ -12,7 +12,7 @@
 <!--   first scroll. Title + tagline live inside the SVG itself.      -->
 <!-- ============================================================== -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C73E1D,100:0A0A0A&height=220&section=header&text=THE%20NOORA%20CASE&fontSize=70&fontColor=fff3d4&animation=fadeIn&fontAlignY=36&desc=case%20file%20%C2%B7%20NQ-2026-001%20%C2%B7%20software%20engineer%20%C2%B7%20mentor%20%C2%B7%20builder&descAlignY=58&descAlign=50&descSize=15" alt="The Noora Case" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C73E1D,100:0A0A0A&height=220&section=header&text=THE%20NOORA%20CASE&fontSize=70&fontColor=fff3d4&animation=fadeIn&fontAlignY=36&desc=case%20file%20%C2%B7%20NQ-2026-001%20%C2%B7%20software%20engineer%20%C2%B7%20mentor%20%C2%B7%20builder&descAlignY=58&descAlign=50&descSize=15" alt="Noora" />
 
 
 <!-- ============================================================== -->
