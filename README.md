@@ -5,22 +5,6 @@
 <!--   Then it auto-displays as your profile page.                     -->
 <!-- ============================================================== -->
 
-
-<!-- ============================================================== -->
-<!--   HEADER BANNER  ·  capsule-render                                -->
-<!--   Waving gradient from stamp red into ink. Sells the brand on    -->
-<!--   first scroll. Title + tagline live inside the SVG itself.      -->
-<!-- ============================================================== -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C73E1D,100:0A0A0A&height=220&section=header&text=THE%20NOORA%20CASE&fontSize=70&fontColor=fff3d4&animation=fadeIn&fontAlignY=36&desc=case%20file%20%C2%B7%20NQ-2026-001%20%C2%B7%20software%20engineer%20%C2%B7%20mentor%20%C2%B7%20builder&descAlignY=58&descAlign=50&descSize=15" alt="Noora" />
-
-
-<!-- ============================================================== -->
-<!--   IDENTITY BADGES  ·  shields.io                                  -->
-<!--   Three frame-of-mind badges sitting under the banner like        -->
-<!--   metadata tags on a real case folder.                            -->
-<!-- ============================================================== -->
-
 <p align="center">
   <img src="https://img.shields.io/badge/CASE_FILE-NQ--2026--001-C73E1D?style=for-the-badge&labelColor=0A0A0A" alt="case no" />
   &nbsp;
@@ -115,13 +99,6 @@ status:
 <!--   ACTIVITY GRAPH  ·  Ashutosh00710                                -->
 <!--   52-week commit line. Themed in stamp red on cream.              -->
 <!-- ============================================================== -->
-
-## `// commit history`
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NooraWael&bg_color=FFF3D4&color=0A0A0A&line=C73E1D&point=0A0A0A&area=true&area_color=C73E1D&hide_border=false&custom_title=COMMIT%20EVIDENCE%20%E2%80%94%2052%20WEEKS&radius=4" alt="activity graph" />
-</div>
-
 
 <!-- ============================================================== -->
 <!--   SNAKE  ·  Platane/snk                                           -->
