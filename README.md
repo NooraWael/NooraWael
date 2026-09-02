@@ -140,34 +140,3 @@ status:
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=NooraWael&label=DOSSIER+ACCESSED&color=C73E1D&style=for-the-badge&labelColor=0A0A0A" alt="views" />
 </p>
-
-
-<!-- ============================================================== -->
-<!--   FOOTER BANNER  ·  capsule-render                                -->
-<!--   Mirror of the header, gradient reversed, closes the file.       -->
-<!-- ============================================================== -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,100:C73E1D&height=120&section=footer&text=%2F%2F%20END%20OF%20FILE&fontSize=28&fontColor=fff3d4&fontAlignY=70" alt="end of file" />
-
-
-<!-- ============================================================== -->
-<!--   NOTES  (these are HTML comments and won't render)               -->
-<!-- ============================================================== -->
-<!--
-  ─────────────────────────────────────────────────────────────────
-  COLORS  ·  the case-file palette
-  ─────────────────────────────────────────────────────────────────
-      INK    = 0A0A0A
-      PAPER  = FFF3D4
-      STAMP  = C73E1D
-
-  Search-replace if you ever want to recolor the whole file.
-
-  ─────────────────────────────────────────────────────────────────
-  SNAKE ANIMATION
-  ─────────────────────────────────────────────────────────────────
-  Won't appear until the GitHub Action runs at least once.
-  Workflow file goes at:  .github/workflows/snake.yml
-  (Setup instructions were in the chat where this was generated.)
-  ─────────────────────────────────────────────────────────────────
--->
